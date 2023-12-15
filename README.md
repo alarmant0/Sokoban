@@ -1,2 +1,2 @@
 # Sokoban
-Customized Sokoban Game
+Customized Sokoban Game using Eclipse
